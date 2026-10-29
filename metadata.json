@@ -1,0 +1,6 @@
+{
+  "name": "생태계 평형 시뮬레이터",
+  "description": "초등학교 4학년 과학 생태계 평형 탐구 및 먹이사슬·먹이그물 시뮬레이션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
